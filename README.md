@@ -4,5 +4,3 @@
 - 👨‍💻 Мои сертиффикаты и пройденные курсы: https://github.com/GulshatNigma/1C-certificates
 - 📫 Контактные данные: nigma1918@mail.ru
 - 📄 ___
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GulshatNigma)
