@@ -1,8 +1,8 @@
-### Hi there, I'm Gulshat Nigmatullina 👋
+## Привет, меня зовут Гульшат 👋
 
-- 🌱 I’m currently learning PHP
-- 👨‍💻 All of my projects are available at https://github.com/GulshatNigma
-- 📫 How to reach me: nigma1918@mail.ru
-- 📄 Know about my experiences https://cv.hexlet.io/resumes/2127
+- 📄 Я 1С-разработчик (Junior). Имею опыт работы с конфигурациями БГУ, ЗКГУ, ЗУП, БП.
+- 👨‍💻 Мои сертиффикаты и пройденные курсы: https://github.com/GulshatNigma/1C-certificates
+- 📫 Контактные данные: nigma1918@mail.ru
+- 📄 ___
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GulshatNigma)
