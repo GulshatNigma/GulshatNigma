@@ -4,4 +4,4 @@
      Работала с конфигурациями: БГУ, ЗКГУ, ЗУП, БП.  
 - 👨‍💻 Мои сертификаты и пройденные курсы: https://github.com/GulshatNigma/1C-certificates
 - 📫 Контактные данные: nigma1918@mail.ru
-- 📂 Проекты:  
+- 📂 Проекты: Учёт товаров на складе - https://github.com/GulshatNigma/Warehouse-inventory-control
